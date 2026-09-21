@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/windblue/전하진 씨프/씨프.1"
+relocations:     []
+...
