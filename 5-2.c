@@ -5,7 +5,7 @@ int main(void) {
     int num=1;
     while (num<=10){
         facto *= num;
-        printf("%d \n",facto);
+        printf("%d ! = %d \n",num,facto);
         num++;
     }
     return 0; 
